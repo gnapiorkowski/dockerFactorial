@@ -1,0 +1,13 @@
+{
+  "name": "counter",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "*",
+    "redis": "*"
+  }
+}
+
